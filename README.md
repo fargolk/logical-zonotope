@@ -1,5 +1,8 @@
-#Logical Zonotope Python Library
+
+### Logical Zonotope Python Library
+
 Logical Zonotope: A Set Representation for Binary Vectors
+
 Based on https://arxiv.org/abs/2210.08596
 
 logical zonotopes can be used to greatly reduce the computational complexity of a variety of operations over sets of binary vectors, including logical operations (e.g. XOR, NAND, AND, OR) and semi-tensor products.
