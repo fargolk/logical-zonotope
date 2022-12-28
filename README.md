@@ -7,6 +7,12 @@ Based on https://arxiv.org/abs/2210.08596
 
 logical zonotopes can be used to greatly reduce the computational complexity of a variety of operations over sets of binary vectors, including logical operations (e.g. XOR, NAND, AND, OR) and semi-tensor products.
 
+
+### Version 0.1.0
+Implemented Functions:
+
+AND, NOT, NAND, XOR, OR, XNOR 
+
 ### Installation
 ```
 pip install logical-zonotope
